@@ -5,7 +5,7 @@ Bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar meus projetos, estu
 ## 🚀 Sobre mim
 
 🎯 Estudante de Ciencia de Dados.  
-💡 Atualmente focado em [Python].  
+💡 Atualmente focado em [Python e Sql].  
 📚 Sempre aprendendo algo novo.
 
 ## 🛠️ Tecnologias e Ferramentas
