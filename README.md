@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou [Cauã de Godoy]
 
-<!--
-**Caua-Godoy/Caua-Godoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar meus projetos, estudos, contribuições e um pouco do que estou construindo no mundo da tecnologia.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Estudante de Ciencia de Dados.  
+💡 Atualmente focado em [Python].  
+📚 Sempre aprendendo algo novo.
+
+## 🛠️ Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+
+## 📫 Como me encontrar
+
+- LinkedIn: (https://www.linkedin.com/in/cau%C3%A3-de-godoy-83959b358/)
+- E-mail: contato.cauadegodoy@gmail.com
+
