@@ -13,6 +13,6 @@ Bem-vindo ao meu espaço no GitHub! Aqui você vai encontrar meus projetos, estu
 
 ## 📫 Como me encontrar
 
-- LinkedIn: (https://www.linkedin.com/in/cau%C3%A3-de-godoy-83959b358/)
+- LinkedIn: (https://www.linkedin.com/in/caua-de-godoy-araujo202007/)
 - E-mail: contato.cauadegodoy@gmail.com
 
